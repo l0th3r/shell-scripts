@@ -16,4 +16,5 @@ volume_path="/mnt/${mount_path}"
 
 sudo mkdir ${volume_path}
 sudo mount -t drvfs ${drive_letter}: ${volume_path}
+echo "sucessfully mounted f volume"
 cd /mnt/${mount_path}/
