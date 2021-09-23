@@ -1,0 +1,4 @@
+ 
+alias mnt="bash ~/shell-scripts/mount_external_volume.sh"
+alias umnt="bash ~/shell-scripts/unmount_external_volume.sh"
+alias lsvol="bash ~/shell-scripts/lsdsks.sh"
